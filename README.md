@@ -13,7 +13,7 @@
 
 💡 I enjoy working on intelligent systems, optimizing solutions with code, and building models that matter.  
 
-🧠 With a strong grasp of **Python**, **C++**, and **MATLAB**, I'm comfortable working with both hardware and software tools for AI and embedded systems.
+With a strong grasp of **Python**, **MATLAB**, and **C++**, I'm comfortable working with both hardware and software tools for AI and embedded systems.
 
 ---
 
