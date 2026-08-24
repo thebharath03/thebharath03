@@ -1,0 +1,50 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A1622"/>
+      <stop offset="50%" stop-color="#132234"/>
+      <stop offset="100%" stop-color="#2B3C52"/>
+    </linearGradient>
+
+    <linearGradient id="triFillLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C9B99B" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#C9B99B" stop-opacity="0.02"/>
+    </linearGradient>
+
+    <linearGradient id="titleFade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F3ECDE"/>
+      <stop offset="100%" stop-color="#D8C9AC"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- thin triangular glass shapes, scattered -->
+  <g fill="none" stroke="#C9B99B" stroke-width="1">
+    <polygon points="60,20 190,60 40,140" fill="url(#triFillLight)" stroke-opacity="0.35"/>
+    <polygon points="140,180 260,120 230,230" fill="none" stroke-opacity="0.25"/>
+    <polygon points="-20,200 90,160 60,260" fill="url(#triFillLight)" stroke-opacity="0.3"/>
+    <polygon points="980,10 1120,50 1000,110" fill="none" stroke-opacity="0.3"/>
+    <polygon points="1060,90 1200,60 1200,190" fill="url(#triFillLight)" stroke-opacity="0.35"/>
+    <polygon points="900,180 1010,150 1040,260" fill="none" stroke-opacity="0.22"/>
+    <polygon points="1140,150 1200,220 1080,240" fill="url(#triFillLight)" stroke-opacity="0.28"/>
+    <polygon points="320,-10 380,40 300,55" fill="none" stroke-opacity="0.18"/>
+    <polygon points="820,0 880,35 840,60" fill="none" stroke-opacity="0.18"/>
+  </g>
+
+  <!-- extra ultra-thin outline accents -->
+  <g fill="none" stroke="#E8DFD0" stroke-width="0.6" stroke-opacity="0.25">
+    <polygon points="70,25 185,62 45,135"/>
+    <polygon points="1065,95 1195,65 1195,185"/>
+    <polygon points="150,178 255,122 227,225"/>
+  </g>
+
+  <!-- title -->
+  <text x="600" y="128" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="600" letter-spacing="3" fill="url(#titleFade)">M R BHARATH</text>
+
+  <!-- divider -->
+  <line x1="470" y1="150" x2="730" y2="150" stroke="#C9B99B" stroke-width="1" stroke-opacity="0.5"/>
+
+  <!-- subtitle -->
+  <text x="600" y="180" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" letter-spacing="1.5" fill="#C9B99B" fill-opacity="0.9">ASPIRING AI ENGINEER  ·  AI IN HEALTHCARE  ·  FULL-STACK ENTHUSIAST</text>
+</svg>
