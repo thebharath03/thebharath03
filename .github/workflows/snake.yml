@@ -17,14 +17,20 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate GitHub contribution snake
-        uses: Platane/snk@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=gold&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b83dd,#3c63b8
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate snake SVG
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run generate:snake
 
       - name: Publish generated snake to output branch
         uses: crazy-max/ghaction-github-pages@v4

@@ -1,0 +1,11 @@
+{
+  "name": "thebharath03-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:snake": "node scripts/generate-snake.mjs"
+  },
+  "dependencies": {
+    "generate-snake-animation": "latest"
+  }
+}
