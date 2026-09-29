@@ -20,9 +20,17 @@ const outputs = [
   {
     format: "svg",
     drawOptions: {
-      backgroundColor: "#0D1B2A",
-      snakeColor: "#C9B99B",
-      lineColor: "#1B2A41",
+      colorDots: ["#161b22", "#01311f", "#034525", "#0f6d31", "#00c647"],
+      colorEmpty: "#161b22",
+      colorDotBorder: "#1b1f230a",
+      colorSnake: "#C9B99B",
+      sizeCell: 16,
+      sizeDot: 12,
+      sizeDotBorderRadius: 2,
+    },
+    animationOptions: {
+      stepDurationMs: 100,
+      frameByStep: 1,
     },
   },
 ];
