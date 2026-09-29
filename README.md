@@ -27,9 +27,7 @@ I’m a B.Tech student in Artificial Intelligence and Data Science (Medical), fo
 ```yaml
 education: "B.Tech in Artificial Intelligence and Data Science (Medical)"
 focus: ["Machine Learning", "Deep Learning", "Generative AI", "LLMs & Agentic AI"]
-interests: "Applying AI to real-world problems in healthcare, materials discovery, and automation"
-research: "Fine-tuning domain-specific transformers such as DeBERTa-v3, BioClinicalBERT, and PubMedBERT for clinical NLP"
-generative_ai: "Building GAN, VAE, and DDPM pipelines for microstructure generation and image compression"
+interests: "Applying AI to real-world problems and specialising in healthcare"
 comfort_zone: ["Software", "Data", "Hardware"]
 currently_exploring: "Explainable AI, LoRA fine-tuning, and Agentic AI systems"
 ```
@@ -98,21 +96,9 @@ currently_exploring: "Explainable AI, LoRA fine-tuning, and Agentic AI systems"
 
 <br/>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <a href="https://github.com/thebharath03" target="_blank" rel="noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=thebharath03&row=2&column=4&margin-w=12&margin-h=12&no-frame=true&title_color=C9B99B&icon_color=C9B99B&text_color=E8DFD0&background=0D1B2A" alt="GitHub Trophy Summary" />
-  </a>
-</div>
-
 ## 📊 GitHub Statistics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thebharath03&show_icons=true&hide_border=true&count_private=true&title_color=C9B99B&icon_color=C9B99B&text_color=E8DFD0&bg_color=0D1B2A)](https://github.com/thebharath03)
 [![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thebharath03&hide_border=true&background=0D1B2A&ring=C9B99B&fire=C9B99B&currStreakLabel=C9B99B&sideLabels=E8DFD0&currStreakNum=E8DFD0&sideNums=E8DFD0&dates=8A95A5)](https://github.com/thebharath03)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharath03&layout=compact&hide_border=true&title_color=C9B99B&text_color=E8DFD0&bg_color=0D1B2A)](https://github.com/thebharath03)
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thebharath03&hide_border=true&bg_color=0D1B2A&color=E8DFD0&line=C9B99B&point=E8DFD0&area=true&area_color=1B2A41)](https://github.com/thebharath03)
 
 ## 🐍 Contribution Snake
 
@@ -121,11 +107,7 @@ currently_exploring: "Explainable AI, LoRA fine-tuning, and Agentic AI systems"
     <img src="https://raw.githubusercontent.com/thebharath03/thebharath03/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution graph" width="100%" />
   </a>
 </div>
-
-This snake animation is generated automatically with the official [Platane/snk](https://github.com/Platane/snk) GitHub Action and refreshed from the contribution graph.
-
 <br/><br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3A4A63,50:1B2A41,100:0D1B2A&height=120&section=footer" width="100%" alt="Footer banner" />
 </div>
