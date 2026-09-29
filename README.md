@@ -100,33 +100,21 @@ currently_exploring: "Explainable AI, LoRA fine-tuning, and Agentic AI systems"
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thebharath03&row=2&column=4&margin-w=12&margin-h=12&no-frame=true&title_color=C9B99B&icon_color=C9B99B&text_color=E8DFD0&background=0D1B2A" alt="GitHub trophy summary" />
-</div>
-
-<br/>
+[![GitHub Trophy Summary](https://github-profile-trophy.vercel.app/?username=thebharath03&row=2&column=4&margin-w=12&margin-h=12&no-frame=true&title_color=C9B99B&icon_color=C9B99B&text_color=E8DFD0&background=0D1B2A)](https://github.com/thebharath03)
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thebharath03&show_icons=true&hide_border=true&count_private=true&title_color=C9B99B&icon_color=C9B99B&text_color=E8DFD0&bg_color=0D1B2A" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thebharath03&hide_border=true&background=0D1B2A&ring=C9B99B&fire=C9B99B&currStreakLabel=C9B99B&sideLabels=E8DFD0&currStreakNum=E8DFD0&sideNums=E8DFD0&dates=8A95A5" width="49%" alt="GitHub streak stats" />
-</div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thebharath03&show_icons=true&hide_border=true&count_private=true&title_color=C9B99B&icon_color=C9B99B&text_color=E8DFD0&bg_color=0D1B2A)](https://github.com/thebharath03)
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thebharath03&hide_border=true&background=0D1B2A&ring=C9B99B&fire=C9B99B&currStreakLabel=C9B99B&sideLabels=E8DFD0&currStreakNum=E8DFD0&sideNums=E8DFD0&dates=8A95A5)](https://github.com/thebharath03)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebharath03&layout=compact&hide_border=true&title_color=C9B99B&text_color=E8DFD0&bg_color=0D1B2A" width="49%" alt="Top languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thebharath03&hide_border=true&bg_color=0D1B2A&color=E8DFD0&line=C9B99B&point=E8DFD0&area=true&area_color=1B2A41" width="49%" alt="Activity graph" />
-</div>
-
-<br/>
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thebharath03&layout=compact&hide_border=true&title_color=C9B99B&text_color=E8DFD0&bg_color=0D1B2A)](https://github.com/thebharath03)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thebharath03&hide_border=true&bg_color=0D1B2A&color=E8DFD0&line=C9B99B&point=E8DFD0&area=true&area_color=1B2A41)](https://github.com/thebharath03)
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thebharath03/thebharath03/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake contribution graph" />
-</div>
+[![Snake contribution graph](https://raw.githubusercontent.com/thebharath03/thebharath03/output/github-contribution-grid-snake-dark.svg)](https://github.com/thebharath03)
 
-<sub>To enable this, add the <a href="https://github.com/Platane/snk" target="_blank" rel="noreferrer">Platane/snk</a> GitHub Action to a repository named exactly like your username. It auto-generates the animated snake above.</sub>
+To enable this, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to a repository named exactly like your username. It auto-generates the animated snake above.
 
 <br/><br/>
 
