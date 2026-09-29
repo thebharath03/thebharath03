@@ -100,7 +100,11 @@ currently_exploring: "Explainable AI, LoRA fine-tuning, and Agentic AI systems"
 
 ## 🏆 GitHub Achievements
 
-[![GitHub Trophy Summary](https://github-profile-trophy.vercel.app/?username=thebharath03&row=2&column=4&margin-w=12&margin-h=12&no-frame=true&title_color=C9B99B&icon_color=C9B99B&text_color=E8DFD0&background=0D1B2A)](https://github.com/thebharath03)
+<div align="center">
+  <a href="https://github.com/thebharath03" target="_blank" rel="noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=thebharath03&row=2&column=4&margin-w=12&margin-h=12&no-frame=true&title_color=C9B99B&icon_color=C9B99B&text_color=E8DFD0&background=0D1B2A" alt="GitHub Trophy Summary" />
+  </a>
+</div>
 
 ## 📊 GitHub Statistics
 
@@ -112,9 +116,13 @@ currently_exploring: "Explainable AI, LoRA fine-tuning, and Agentic AI systems"
 
 ## 🐍 Contribution Snake
 
-[![Snake contribution graph](https://raw.githubusercontent.com/thebharath03/thebharath03/output/github-contribution-grid-snake-dark.svg)](https://github.com/thebharath03)
+<div align="center">
+  <a href="https://github.com/thebharath03" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/thebharath03/thebharath03/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution graph" width="100%" />
+  </a>
+</div>
 
-To enable this, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to a repository named exactly like your username. It auto-generates the animated snake above.
+This snake animation is generated automatically with the official [Platane/snk](https://github.com/Platane/snk) GitHub Action and refreshed from the contribution graph.
 
 <br/><br/>
 
